@@ -5,7 +5,6 @@
  * @n: the int to extract the last digit from
  * Return: value of the last digit
  */
-void _putchar();
 int print_last_digit(int n)
 {
 	int a;
