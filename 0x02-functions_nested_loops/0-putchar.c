@@ -4,7 +4,7 @@
  * is written by mbah
  * Return: 0
  */
-void _putchar();
+void _putchar(void);
 int main(void)
 {
 _putchar('_');
